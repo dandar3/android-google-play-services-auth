@@ -1,7 +1,7 @@
 ## android-google-play-services-auth
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-auth-base/9.4.0/play-services-auth-base-9.4.0.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-auth-base/9.4.0/play-services-auth-9.4.0.aar`
 
 **Requires:**
 - `Android 2.3.1 (API 9) SDK Platform`
