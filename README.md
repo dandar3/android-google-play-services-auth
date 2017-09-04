@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 `https://maven.google.com/com/google/android/gms/play-services-auth/11.2.0/play-services-auth-11.2.0.aar`
 
 **Requires:**
-- `Android 7.1 (API 25) SDK Platform`
+- `Android 8.0 (API 26) SDK Platform`
 - [dandar3/android-google-play-services-auth-api-phone](https://github.com/dandar3/android-google-play-services-auth-api-phone/tree/11.2.0)
 - [dandar3/android-google-play-services-auth-base](https://github.com/dandar3/android-google-play-services-auth-base/tree/11.2.0)
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/11.2.0)
@@ -12,7 +12,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.2.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#june_2017_-_version_110
+- https://developers.google.com/android/guides/releases#august_2017_-_version_1120
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
