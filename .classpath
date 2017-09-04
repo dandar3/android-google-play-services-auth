@@ -9,5 +9,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-base"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-auth-api-phone"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
